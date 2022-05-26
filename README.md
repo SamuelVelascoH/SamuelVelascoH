@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on USA
+- 🌱 I’m currently learning about software development
+
+```java
+System.out.println("Hello World");
+```
 <!--
 **SamuelVelascoH/SamuelVelascoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
