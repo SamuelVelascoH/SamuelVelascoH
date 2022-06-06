@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.postimg.cc/RCfytr38/thomas.gif" alt="octocat" width="100"/>
+<img src="https://i.postimg.cc/RCfytr38/thomas.gif" alt="octocat" width="300"/>
 
 - 🔭 I’m currently working on USA
 - 🌱 I’m currently learning about software development
