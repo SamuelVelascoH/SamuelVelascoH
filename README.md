@@ -2,11 +2,17 @@
 
 <img src="https://i.postimg.cc/RCfytr38/thomas.gif" alt="octocat" width="300"/>
 
-- 🔭 I’m currently working on USA
-- 🌱 I’m currently learning about software development
+- 🔭 I’m currently working my proyects Java 
+- 🌱 I’m currently improving my skills in APIS rest whit Spring Boot 
 
 ```java
-System.out.println("Hello World");
+System.out.println("Hello World"); or...
+ public static String helloWord(){
+            return "Hello Word";
+        }
+        public static void main(String[]args) {
+            System.out.println(helloWord());
+        }
 ```
 
 ```c#
