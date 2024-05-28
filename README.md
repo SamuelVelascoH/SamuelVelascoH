@@ -2,8 +2,8 @@
 
 <img src="https://i.postimg.cc/RCfytr38/thomas.gif" alt="octocat" width="300"/>
 
-- 🔭 I’m currently working my proyects Java 
-- 🌱 I’m currently improving my skills in APIS rest whit Spring Boot 
+- 🔭 Working my proyects Java 
+- 🌱 Skills in APIS rest whit Spring Boot 
 
 ```java
 System.out.println("Hello World"); or...
