@@ -24,17 +24,15 @@ public class ProfileController {
     }
 }
 
+🚀 **Backend Developer Mindset**
 
-🛠️ Tech Stack & Skills
+```java
+@RestController
+@RequestMapping("/api/v1/developer")
+public class ProfileController {
 
-const developer = {
-    name: "Samuel Velasco",
-    role: "Full-Stack Web & Backend Java Developer",
-    coreSkills: {
-        backend: ["Java", "Spring Boot", "Spring Security", "JWT", "PHP", "Python"],
-        frontend: ["JavaScript", "HTML5", "CSS3", "WordPress Webmaster"],
-        databases: ["PostgreSQL", "MySQL", "MariaDB", "Spring Data JPA"],
-        tools: ["Git", "Postman", "JUnit"]
-    },
-    currentFocus: "Optimizing web performance and building secure backend systems."
-};
+    @GetMapping("/status")
+    public ResponseEntity<String> getSystemStatus() {
+        return ResponseEntity.ok("Ready to build robust, secure, and scalable architectures. 🚀");
+    }
+}
