@@ -22,7 +22,6 @@ public class ProfileController {
     public ResponseEntity<String> getSystemStatus() {
         return ResponseEntity.ok("Ready to build robust, secure, and scalable architectures. 🚀");
     }
-}
 
 🚀 **Backend Developer Mindset**
 
