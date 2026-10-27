@@ -2,35 +2,39 @@
 
 <img src="https://i.postimg.cc/RCfytr38/thomas.gif" alt="octocat" width="300"/>
 
-- 🔭 Working my proyects Java 
-- 🌱 Skills in APIS rest whit Spring Boot 
+Hi there 👋, I'm Samuel Velasco
 
-```java
-System.out.println("Hello World"); or...
- public static String helloWord(){
-            return "Hello Word";
-        }
-        public static void main(String[]args) {
-            System.out.println(helloWord());
-        }
-```
+🔭 Currently focused on: Building scalable RESTful APIs and refactoring high-traffic web platforms for optimal performance.
 
-```c#
-var name = "Samuel Velasco";
-var code = ["C#", "HTML", "CSS"];
-var learning = "SQL";
-```
-<!--
-**SamuelVelascoH/SamuelVelascoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack: Java 17, Spring Boot, PHP, JavaScript, SQL.
 
-Here are some ideas to get you started:
+🌱 Currently learning/deepening: Cloud Architectures, Microservices, and advanced CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I recently optimized a client's site by replacing 50+ third-party plugins with pure, native, and efficient code.
+
+🚀 Backend Developer Mindset
+
+@RestController
+@RequestMapping("/api/v1/developer")
+public class ProfileController {
+
+    @GetMapping("/status")
+    public ResponseEntity<String> getSystemStatus() {
+        return ResponseEntity.ok("Ready to build robust, secure, and scalable architectures. 🚀");
+    }
+}
+
+
+🛠️ Tech Stack & Skills
+
+const developer = {
+    name: "Samuel Velasco",
+    role: "Full-Stack Web & Backend Java Developer",
+    coreSkills: {
+        backend: ["Java", "Spring Boot", "Spring Security", "JWT", "PHP", "Python"],
+        frontend: ["JavaScript", "HTML5", "CSS3", "WordPress Webmaster"],
+        databases: ["PostgreSQL", "MySQL", "MariaDB", "Spring Data JPA"],
+        tools: ["Git", "Postman", "JUnit"]
+    },
+    currentFocus: "Optimizing web performance and building secure backend systems."
+};
