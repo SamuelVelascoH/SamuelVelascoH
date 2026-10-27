@@ -6,7 +6,6 @@ Hi there 👋, I'm Samuel Velasco
 
 * 🔭 **Currently focused on:** Building scalable RESTful APIs and refactoring high-traffic web platforms for optimal performance.
 * 💻 **Tech Stack:** Java 17, Spring Boot, PHP, JavaScript, SQL.
-* 🌱 **Currently learning/deepening:** Cloud Architectures, Microservices, and advanced CI/CD pipelines.
 * ⚡ **Fun fact:** I recently optimized a client's site by replacing 50+ third-party plugins with pure, native, and efficient code.
 
 ### 🚀 Backend Developer Mindset
