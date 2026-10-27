@@ -36,3 +36,14 @@ public class ProfileController {
         return ResponseEntity.ok("Ready to build robust, secure, and scalable architectures. 🚀");
     }
 }
+const developer = {
+  name: "Samuel Velasco",
+  role: "Full-Stack Web & Backend Java Developer",
+  coreSkills: {
+    backend: ["Java", "Spring Boot", "Spring Security", "JWT", "PHP", "Python"],
+    frontend: ["JavaScript", "HTML5", "CSS3", "WordPress Webmaster"],
+    databases: ["PostgreSQL", "MySQL", "MariaDB", "Spring Data JPA"]
+  },
+  tools: ["Git", "GitHub", "Postman", "JUnit"],
+  currentFocus: "Optimizing web performance and building secure backend systems."
+};
